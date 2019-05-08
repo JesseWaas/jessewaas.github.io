@@ -4,7 +4,7 @@ read_time: true
 comments: true
 related: true
 shared: true
-layout: single
+layout: posts
 share: true
 
 ---
