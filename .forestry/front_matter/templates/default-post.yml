@@ -14,9 +14,9 @@ fields:
   type: boolean
   label: Comments
   default: true
-- name: shared
+- name: share
   type: boolean
-  label: Shared
+  label: Share
   default: true
 - name: related
   type: boolean
@@ -28,5 +28,3 @@ fields:
     required: false
   label: Layout
   default: single
-pages:
-- _posts/First Post.md
