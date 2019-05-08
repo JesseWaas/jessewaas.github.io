@@ -28,3 +28,5 @@ fields:
     required: false
   label: Layout
   default: single
+pages:
+- _posts/2019-05-08-First Post.md
