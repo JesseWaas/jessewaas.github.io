@@ -5,7 +5,7 @@ comments: true
 related: true
 shared: true
 layout: single
-share: true
+share: false
 
 ---
 This is an arbitrary post.
