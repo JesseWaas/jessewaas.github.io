@@ -2,17 +2,6 @@
 label: Splash
 hide_body: false
 fields:
-- name: overlay_color
-  type: color
-  label: Overlay Color
-  config:
-    required: false
-    color_format: Hex
-- name: overlay_image
-  type: file
-  config:
-    maxSize: 250
-  label: Overlay Image
 - name: excerpt
   type: text
   config:
@@ -25,5 +14,21 @@ fields:
   label: Layout
   hidden: true
   default: splash
+- name: header
+  type: field_group
+  config: {}
+  fields:
+  - name: overlay_color
+    type: color
+    label: Overlay Color
+    config:
+      required: false
+      color_format: Hex
+  - name: overlay_image
+    type: file
+    config:
+      maxSize: 250
+    label: Overlay Image
+  label: Header
 pages:
 - index.html
