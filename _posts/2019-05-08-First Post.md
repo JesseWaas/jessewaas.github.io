@@ -6,6 +6,8 @@ related: true
 shared: true
 layout: single
 share: true
+header:
+  teaser: "/uploads/teaser.png"
 
 ---
 This is an arbitrary post.
