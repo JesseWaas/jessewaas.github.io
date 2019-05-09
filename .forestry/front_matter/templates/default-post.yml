@@ -2,6 +2,24 @@
 label: Default Post
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 - name: author_profile
   type: boolean
   label: Author Profile
