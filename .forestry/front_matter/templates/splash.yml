@@ -18,3 +18,10 @@ fields:
   config:
     required: false
   label: Excerpt
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: splash
