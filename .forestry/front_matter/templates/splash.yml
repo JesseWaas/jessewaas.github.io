@@ -1,4 +1,20 @@
 ---
 label: Splash
 hide_body: false
-fields: []
+fields:
+- name: overlay_color
+  type: color
+  label: Overlay Color
+  config:
+    required: false
+    color_format: Hex
+- name: overlay_image
+  type: file
+  config:
+    maxSize: 250
+  label: Overlay Image
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
