@@ -42,6 +42,26 @@ fields:
     config:
       maxSize: 250
     label: Image
+  - name: overlay_image
+    type: file
+    config:
+      maxSize: 250
+    label: Overlay Image
+  - name: overlay_filter
+    type: number
+    label: Overlay Filter
+    description: ''
+    default: '0.5'
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
   label: Header
 pages:
 - _posts/Second Post.md
