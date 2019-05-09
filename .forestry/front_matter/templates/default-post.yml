@@ -37,6 +37,11 @@ fields:
     config:
       maxSize: 250
     label: Teaser
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
   label: Header
 pages:
 - _posts/Second Post.md
