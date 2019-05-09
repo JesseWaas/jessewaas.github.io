@@ -25,3 +25,5 @@ fields:
   label: Layout
   hidden: true
   default: splash
+pages:
+- index.html
