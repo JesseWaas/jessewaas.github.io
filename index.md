@@ -16,6 +16,8 @@ Welcome to my new website! This incarnation is based on a [Jekyll](https://jekyl
 
 This is my latest attempt at creating and maintaining a blog. I hope to document and share some of my adventures on this platform.
 
-*Short term goal:* Configure this theme.
+**Short term goal:** Configure this theme.
 
-*Long term goals:* Go on amazing trail runs, mountain bike rides, climb mountains, explore caves, and build things. Work less.
+**Long term goals:** Go on amazing trail runs, mountain bike rides, climb mountains, explore caves, and build things. Work less.
+
+![Birds on our skis.](/uploads/ski_birds.jpg "Whistler Ski Birds"){: .align-center}
