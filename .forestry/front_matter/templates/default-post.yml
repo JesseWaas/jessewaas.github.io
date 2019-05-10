@@ -81,6 +81,3 @@ fields:
       required: false
     label: Caption
   label: Header
-pages:
-- _posts/Second Post.md
-- _posts/2019-05-08-First Post.md
