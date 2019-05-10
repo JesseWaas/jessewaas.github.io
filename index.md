@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.3
 
 ---
-Welcome to my new website! This incarnation is based on a [Jekyll](https://jekyllrb.com/) static site generator, hosted on [GitHub](https://github.com/JesseWaas/jessewaas.github.io), and edited via [Forestry.io](https://forestry.io/). The current theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
+Welcome to my new website! This incarnation is based on the [Jekyll](https://jekyllrb.com/) static site generator, hosted on [GitHub](https://github.com/JesseWaas/jessewaas.github.io), and edited via [Forestry.io](https://forestry.io/). The current theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 > It is pitch black. You are likely to be eaten by a Grue.
 
