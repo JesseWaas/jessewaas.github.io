@@ -40,5 +40,3 @@ fields:
       max: 
       step: 
   label: Header
-pages:
-- index.html
