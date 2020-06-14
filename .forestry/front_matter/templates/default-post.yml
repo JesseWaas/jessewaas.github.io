@@ -83,3 +83,4 @@ fields:
   label: Header
 pages:
 - _posts/2020-06-14-test-post.md
+- test-page.md
