@@ -82,6 +82,6 @@ fields:
     label: Caption
   label: Header
 pages:
+- _posts/2020-06-14-test-post-2.md
 - _posts/2020-06-14-test-post.md
-- _posts/test-post-2.md
 - test-page.md
