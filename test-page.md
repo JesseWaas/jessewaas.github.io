@@ -15,7 +15,6 @@ header:
   caption: ''
 title: Test Page
 excerpt: Test excerpt
-published: false
 
 ---
 This is a test page
